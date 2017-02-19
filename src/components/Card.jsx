@@ -20,7 +20,7 @@ export default class Card extends Component {
       sort:'',
       filterBy: '',
       tasks:[{name: 'milk', isComplete: true}, {name: 'movie at 12:00pm', isComplete: false},
-      {name: 'home work', isComplete: true}, {name: 'physics assignment', isComplete: false},
+      {name: 'home work', isComplete: true}, {name: 'physics assignment ', isComplete: false},
       {name: 'pickup sister at 7:00 pm', isComplete: true}, {name: 'gta at 9:00pm', isComplete: false}],
     };
     this.addTodo = this.addTodo.bind(this);

@@ -14,7 +14,7 @@ export default class CardItems extends Component {
   render() {
   	const styles = {
     	smallIcon: {
-      width: 36,
+      
       height: 36,
     }
 	};
