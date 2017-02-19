@@ -42,7 +42,8 @@ npm run lint
 * Webpack
 * [babel-loader](https://github.com/babel/babel-loader)
 * [webpack-dev-server](https://github.com/webpack/webpack-dev-server)
-=======
+
 # REACT_TODO_APP
+=======
 This project based on [react_boilor_plate](https://github.com/lighthouse-labs/react-simple-boilerplate?files=1).
 This is a todo application developed using [reactjs](https://facebook.github.io/react/) and [material-ui](http://www.material-ui.com/#/) 
