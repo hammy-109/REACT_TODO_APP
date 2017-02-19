@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 React Boilerplate
 =====================
 
@@ -9,7 +8,7 @@ A minimal and light dev environment for ReactJS.
 Clone the boilerplate and create your own git repo.
 
 ```
-git clone git@github.com:lighthouse-labs/react-simple-boilerplate.git
+git clone https://github.com/hammy-109/REACT_TODO_APP.git
 git remote rm origin
 git remote add origin [YOUR NEW REPOSITORY]
 # Manually update your package.json file
@@ -45,4 +44,5 @@ npm run lint
 * [webpack-dev-server](https://github.com/webpack/webpack-dev-server)
 =======
 # REACT_TODO_APP
->>>>>>> 5634fab2b31490ee916d916ebd67abd9eb2cd771
+This project based on [react_boilor_plate](https://github.com/lighthouse-labs/react-simple-boilerplate?files=1).
+This is a todo application developed using [reactjs](https://facebook.github.io/react/) and [material-ui](http://www.material-ui.com/#/) 
