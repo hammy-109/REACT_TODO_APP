@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 React Boilerplate
 =====================
 
@@ -42,3 +43,6 @@ npm run lint
 * Webpack
 * [babel-loader](https://github.com/babel/babel-loader)
 * [webpack-dev-server](https://github.com/webpack/webpack-dev-server)
+=======
+# REACT_TODO_APP
+>>>>>>> 5634fab2b31490ee916d916ebd67abd9eb2cd771

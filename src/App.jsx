@@ -1,10 +1,13 @@
 import React, {Component} from 'react';
-
-class App extends Component {
+import Card from './components/Card.jsx';
+import MuiThemeProvider from './../node_modules/material-ui/styles/MuiThemeProvider';
+export default class App extends Component {
   render() {
     return (
-      <h1>Hello React :)</h1>
+    	<MuiThemeProvider>
+	    	<Card />
+			</MuiThemeProvider>
     );
   }
 }
-export default App;
+ 
